@@ -1,3 +1,4 @@
+import com.thoughtworks.selenium.SeleniumLogLevels;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
@@ -5,7 +6,7 @@ import org.junit.jupiter.api.Test;
 public class NegativeSuit {
 
 
-   /* @Test
+    @Test
     public void test1(){
         Assertions.assertTrue(false);
     }
@@ -14,7 +15,6 @@ public class NegativeSuit {
     public void test2(){
         Assertions.assertTrue(false);
     }
-*/
 
 
 
