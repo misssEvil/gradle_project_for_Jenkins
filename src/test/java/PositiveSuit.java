@@ -15,6 +15,16 @@ public class PositiveSuit {
         Assertions.assertTrue(true);
     }
 
+     @Test
+    public void test1(){
+        Assertions.assertTrue(true);
+    }
+
+     @Test
+    public void test1(){
+        Assertions.assertTrue(true);
+    }
+
     @Test
     public void test2(){
         Assertions.assertTrue(true);
