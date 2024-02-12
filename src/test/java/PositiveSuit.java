@@ -16,27 +16,27 @@ public class PositiveSuit {
     }
 
      @Test
-    public void test1(){
-        Assertions.assertTrue(true);
-    }
-
-     @Test
-    public void test1(){
-        Assertions.assertTrue(true);
-    }
-
-    @Test
     public void test2(){
         Assertions.assertTrue(true);
     }
 
-    @Test
+     @Test
     public void test3(){
         Assertions.assertTrue(true);
     }
 
     @Test
     public void test4(){
+        Assertions.assertTrue(true);
+    }
+
+    @Test
+    public void test5(){
+        Assertions.assertTrue(true);
+    }
+
+    @Test
+    public void test6(){
         Assertions.assertTrue(true);
     }
 
