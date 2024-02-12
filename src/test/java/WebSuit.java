@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import runner.BaseTest;
 
-/*public class WebSuit extends BaseTest {
+public class WebSuit extends BaseTest {
 
     @Story("Open main page")
     @Test
@@ -28,4 +28,4 @@ import runner.BaseTest;
         getDriver().findElement(By.xpath("//a[@href = '/en/teachers']")).click();
         Assertions.assertEquals(getDriver().getTitle(), "RedRover | Teachers");
     }
-}*/
+}
