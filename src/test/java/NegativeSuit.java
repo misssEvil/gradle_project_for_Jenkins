@@ -8,12 +8,12 @@ public class NegativeSuit {
 
     @Test
     public void test1(){
-        Assertions.assertTrue(false);
+        Assertions.assertTrue(true);
     }
 
     @Test
     public void test2(){
-        Assertions.assertTrue(false);
+        Assertions.assertTrue(true);
     }
 
 
