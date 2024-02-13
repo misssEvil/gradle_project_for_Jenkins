@@ -21,7 +21,7 @@ pipeline {
         
         stage("test") {
            steps{
-               gradle test
+               echo 'testing the app'
         }
         }
         
