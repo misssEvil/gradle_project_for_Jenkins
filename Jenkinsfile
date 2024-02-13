@@ -23,11 +23,12 @@ pipeline {
            steps{
                gradle test
         }
+        }
         
         stage("deploy") {
             steps {
                 echo 'deploying the app'
             }
         }
-    }   
+    }
 }
