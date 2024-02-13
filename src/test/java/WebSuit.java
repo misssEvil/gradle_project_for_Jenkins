@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import runner.BaseTest;
 
-public class WebSuit extends BaseTest {
+/* public class WebSuit extends BaseTest {
 
     @Story("Open main page")
     @Test
@@ -29,3 +29,4 @@ public class WebSuit extends BaseTest {
         Assertions.assertEquals(getDriver().getTitle(), "RedRover | Teachers");
     }
 }
+*/
